@@ -1,0 +1,223 @@
+.main {
+  position: absolute;
+  top: 50rem;
+  height: 100vh;
+  width: 100vw;
+}
+.wrapper1 {
+  position: absolute;
+  left: 3rem;
+  top: 3rem;
+  width: 1424px;
+  height: 60px;
+  color: white;
+}
+.heading {
+  position: absolute;
+  left: 1rem;
+  top: 1.8rem;
+}
+.righs {
+  position: absolute;
+  top: 0;
+  right: 1rem;
+  width: 152px;
+  height: 60px;
+}
+.l-side {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.r-side {
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+.playsl {
+  position: absolute;
+  left: 1.4rem;
+  top: 1.2rem;
+}
+.playsr {
+  position: absolute;
+  right: 1.4rem;
+  top: 1.2rem;
+}
+.swrapper {
+  position: absolute;
+  width: 1500px;
+  height: 600px;
+  left: 128px;
+  top: 150px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.inerwrapper {
+  position: absolute;
+  width: 3486px;
+  height: 600px;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  background: black;
+  
+
+}
+.cart-outer {
+  position: relative;  
+  margin-right: 2rem;
+  height: 535px;
+  width: 359px;
+  border-radius: 14px;
+  background: radial-gradient(115.1% 83.22% at 50% 40.4%, #141414 0%, #191919 100%);
+box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.imgcontainer {
+  position: absolute;
+  width: 321.56px;
+  height: 322.44px;
+  left: 17px;
+  top: 13px;
+  background: url(../images/WhatsApp\ Image\ 2022-03-02\ at\ 3.02\ 1.jpg);
+
+  background-size: cover;
+}
+
+.titlec {
+  position: absolute;
+  width: 325.56px;
+  height: 51.44px;
+  left: 15px;
+  top: 22rem;
+  color: white;
+}
+.titlei {
+  position: absolute;
+  left: 5%;
+  top: 16%;
+  font-size: 1.4rem;
+  font-weight: 400;
+}
+.titler {
+  position: absolute;
+  right: 17%;
+  top: 22%;
+  color: gray;
+}
+.svg-icon {
+  position: absolute;
+  top: 15%;
+  right: 1%;
+  height: 36px;
+  width: 46px;
+}
+.truckm {
+  position: absolute;
+  height: 20px;
+  top: 19%;
+  left: 31%;
+}
+.truck1 {
+  position: absolute;
+  top: 11px;
+  left: 8px;
+}
+.truck2 {
+  position: absolute;
+  top: 14px;
+  left: 7px;
+}
+.truck3 {
+  position: absolute;
+
+  top: 17px;
+  left: 6px;
+}
+.bottomcontainer {
+  position: absolute;
+  width: 325.56px;
+  height: 73.44px;
+  left: 21px;
+  top: 26rem;
+  color: white;
+  /* background: white; */
+}
+.btntext {
+  position: absolute;
+  top: 1px;
+  right: 0px;
+}
+.firstfont {
+  position: absolute;
+  left: 2px;
+  top: 4px;
+  color: gray;
+}
+.prise {
+  position: absolute;
+  left: 0;
+  top: 30px;
+  font-size: 22px;
+}
+
+.cart-outer1 {
+  position: absolute;
+  left: 0%;
+  right: 89.88%;
+  top: 0%;
+  bottom: 0%;
+  background: radial-gradient(
+    115.1% 83.22% at 50% 40.4%,
+    #141414 0%,
+    #191919 100%
+  );
+  box-shadow: 0px 5px 15px rgb(0 0 0 / 20%);
+  border-radius: 14px;
+}
+
+.imgcontainer1 {
+  position: absolute;
+  width: 321.56px;
+  height: 322.44px;
+  left: 17px;
+  top: 13px;
+  background: url(../images/WhatsApp\ Image\ 2022-03-02\ at\ 3.03.jpg);
+
+  background-size: cover;
+}
+.imgcontainer2 {
+  position: absolute;
+  width: 321.56px;
+  height: 322.44px;
+  left: 17px;
+  top: 13px;
+  background: url(../images/WhatsApp\ Image\ 2022-03-02\ at\ 3.04\ 1.jpg);
+
+  background-size: cover;
+}
+.Hotic{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    font-size: 1rem;
+    color: white;
+
+}
+.Hotici{
+    position: absolute;
+    left: 2%;
+    top: 0%;
+    font-size: 1.5rem;
+    color: white;
+
+}
+
+@media only screen and (max-width: 380px){
+  .main{
+    top: 62rem
+  }
+}

@@ -1,0 +1,38 @@
+<svg width="160" height="72" viewBox="0 0 160 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_906_7)">
+<g filter="url(#filter1_d_906_7)">
+<path d="M46.456 40L43.558 35.86C45.268 35.194 46.24 33.79 46.24 31.882C46.24 29.092 44.188 27.4 40.876 27.4H35.692V40H38.032V36.328H40.876C41.038 36.328 41.2 36.328 41.362 36.31L43.936 40H46.456ZM43.882 31.882C43.882 33.466 42.82 34.402 40.768 34.402H38.032V29.38H40.768C42.82 29.38 43.882 30.298 43.882 31.882ZM57.678 35.248C57.678 32.242 55.626 30.28 52.818 30.28C49.956 30.28 47.85 32.332 47.85 35.194C47.85 38.056 49.938 40.126 53.16 40.126C54.816 40.126 56.166 39.586 57.03 38.56L55.824 37.174C55.14 37.876 54.294 38.218 53.214 38.218C51.54 38.218 50.37 37.318 50.1 35.914H57.642C57.66 35.698 57.678 35.428 57.678 35.248ZM52.818 32.08C54.294 32.08 55.356 33.034 55.536 34.42H50.082C50.298 33.016 51.36 32.08 52.818 32.08ZM65.2933 30.28C63.8893 30.28 62.7193 30.748 61.9813 31.63V30.388H59.8393V40H62.0893V35.14C62.0893 33.214 63.1693 32.242 64.7713 32.242C66.2113 32.242 67.0573 33.07 67.0573 34.78V40H69.3073V34.492C69.3073 31.594 67.5973 30.28 65.2933 30.28ZM77.3095 37.876C76.9675 38.146 76.5175 38.272 76.0495 38.272C75.1855 38.272 74.7175 37.768 74.7175 36.832V32.26H77.2915V30.46H74.7175V28.264H72.4675V30.46H70.8835V32.26H72.4675V36.886C72.4675 39.01 73.6735 40.126 75.7795 40.126C76.5895 40.126 77.3995 39.91 77.9395 39.478L77.3095 37.876ZM93.8551 27.4V35.932L86.9071 27.4H84.9811V40H87.3031V31.468L94.2511 40H96.1771V27.4H93.8551ZM103.657 40.126C106.645 40.126 108.787 38.074 108.787 35.194C108.787 32.314 106.645 30.28 103.657 30.28C100.705 30.28 98.5453 32.314 98.5453 35.194C98.5453 38.074 100.705 40.126 103.657 40.126ZM103.657 38.2C102.037 38.2 100.813 37.03 100.813 35.194C100.813 33.358 102.037 32.188 103.657 32.188C105.295 32.188 106.519 33.358 106.519 35.194C106.519 37.03 105.295 38.2 103.657 38.2ZM123.671 30.388L121.061 37.516L118.469 30.388H116.579L113.933 37.48L111.395 30.388H109.271L112.799 40H114.959L117.479 33.376L119.963 40H122.123L125.669 30.388H123.671Z" fill="url(#paint0_linear_906_7)"/>
+</g>
+<rect x="9.25" y="7.25" width="141.5" height="53.5" rx="5.75" stroke="url(#paint1_linear_906_7)" stroke-width="1.5" shape-rendering="crispEdges"/>
+</g>
+<defs>
+<filter id="filter0_d_906_7" x="0.5" y="0.5" width="159" height="71" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="4"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_906_7"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_906_7" result="shape"/>
+</filter>
+<filter id="filter1_d_906_7" x="29.692" y="23.3999" width="101.977" height="24.7261" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="2"/>
+<feGaussianBlur stdDeviation="3"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_906_7"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_906_7" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_906_7" x1="34" y1="23" x2="127.257" y2="29.8273" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1BACF4"/>
+<stop offset="1" stop-color="#19EEB5"/>
+</linearGradient>
+<linearGradient id="paint1_linear_906_7" x1="10" y1="8" x2="152.357" y2="14.7097" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1BACF4"/>
+<stop offset="1" stop-color="#19EEB5"/>
+</linearGradient>
+</defs>
+</svg>
